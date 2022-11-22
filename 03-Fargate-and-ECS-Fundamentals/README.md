@@ -59,6 +59,8 @@
 ### Step-05-02: Create a simple Task Definition
    - **Task Definition:** nginx-app1-td        
    - **Docker Image:** stacksimplify/nginxapp1:latest (Available on Docker Hub)
+   -** Container image name: nginxapp
+   -** Port 80
 
 ## Step-06: Create Service
 - Create a simple ECS service using the 
